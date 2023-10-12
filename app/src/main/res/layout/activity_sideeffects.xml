@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="#425C59"
+    android:layout_height="match_parent"
+    tools:context=".sideeffects">
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Side Effects 🤒 🤒"
+            android:layout_marginLeft="60dp"
+            android:textSize="30dp"
+
+            android:textColor="@color/white"
+
+            />
+
+
+<androidx.cardview.widget.CardView
+
+    android:layout_width="wrap_content"
+
+    android:layout_height="wrap_content">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Stage 0 non-small cell lung cancer :"
+    android:layout_marginLeft="6dp"
+    android:textSize="30dp"
+    android:textColor="@color/purple_200"
+
+    />
+    <TextView
+        android:layout_marginLeft="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Doctors may detect abnormal cells in the lining of the air passages.
+        These may turn cancerous and affect normal tissue nearby, but they haven’t spread throughout other parts of the body.
+
+The subtypes of stage 0 NSCLC are:"
+        android:textSize="20dp"
+        android:textColor="@color/purple_200"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="● Squamous cell carcinoma in situ: When abnormal cells are detected in the tissues that line the respiratory tract. These cells may turn cancerous and affect other nearby tissues"
+        android:layout_marginLeft="13dp"
+        android:textSize="15dp"
+        android:textColor="@color/purple_200"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="● Adenocarcinoma in situ: When abnormal cells are detected in glandular tissue lining the lungs"
+        android:layout_marginLeft="13dp"
+        android:textSize="15dp"
+        android:textColor="@color/purple_200"
+
+        />
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/sidee" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stage 1 non-small cell lung cancer"
+            android:layout_marginLeft="6dp"
+            android:textSize="30dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 1A: The cancer affects the lung only, with a tumor that measures 3 cm or smaller and hasn’t spread to lymph nodes or other areas."
+            android:layout_marginLeft="13dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 1B:
+In some cases, the lung cancer tumor is larger than 3 cm, but smaller than 4 cm, and hasn’t metastasized to lymph nodes."
+            android:layout_marginLeft="13dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Either a portion of or the entire lung has collapsed or has pneumonitis (a condition in which the lung becomes inflamed). "
+            android:layout_marginLeft="15dp"
+            android:textSize="20dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the innermost tissue that wraps around the lung. "
+            android:layout_marginLeft="15dp"
+            android:textSize="20dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stage 2 non-small cell lung cancer:"
+            android:layout_marginLeft="6dp"
+            android:textSize="30dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:layout_marginLeft="6dp"
+            android:text="● Stage 2A: The lung cancer tumor is smaller than 5 cm, but larger than 4 cm, and hasn’t metastasized to the lymph nodes. In addition, the cancer meets at least one of the following criteria:
+The cancer has reached the main bronchus, but not the carina.
+The cancer has reached the innermost tissue that wraps around the lung.
+Either a portion of or the entire lung has collapsed or has pneumonitis."
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● In some cases, the lung cancer tumor measures 5 cm or smaller and has reached lymph nodes located in the same area of the chest as the original tumor—typically lymph nodes in the lung or close to the bronchus. The cancer also meets at least one of the following criteria:"
+            android:layout_marginLeft="13dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the innermost tissue that wraps around the lung."
+            android:layout_marginLeft="13dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the main bronchus, but not the carina."
+            android:layout_marginLeft="13dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stage 3 non-small cell lung cancer:"
+            android:layout_marginLeft="6dp"
+            android:textSize="30dp"
+
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 3A:"
+            android:layout_marginLeft="13dp"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● In some cases, the lung cancer tumor measures 5 cm or smaller and has reached lymph nodes in the same area of the chest where the original tumor was detected—typically, the lymph nodes in the trachea, aorta of the heart or where the trachea splits into bronchi. In addition, the cancer meets at least one of the following criteria:"
+            android:layout_marginLeft="15dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the main bronchus, but not the carina. "
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the innermost tissue that wraps around the lung. "
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the main bronchus, but not the carina."
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 3B: "
+            android:layout_marginLeft="13dp"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="●In some cases, the lung cancer tumor is 5 cm or smaller, and the cancer has reached the lymph nodes above the collarbone in the same area of the chest as the original tumor, or lymph nodes on the other side of the chest. The cancer also meets at least one of the following criteria: "
+            android:layout_marginLeft="15dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● At least one additional tumor has formed in the same or a different lobe of the lung as the original tumor "
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="● The lung cancer tumor has reached the wall of the chest, the inner lining of the chest wall, the diaphragm or the nerve that controls the diaphragm, among other places. "
+            android:layout_marginLeft="17dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="●Stage 3C: "
+            android:layout_marginLeft="13dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The lung cancer tumor is any size and has reached the lymph nodes on the same side or the opposite side of the chest. The cancer also meets at least one of the following criteria: "
+            android:layout_marginLeft="15dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="●The lung cancer tumor has reached the wall of the chest, the inner lining of the chest wall, the diaphragm or the nerve that controls the diaphragm, among other places."
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="●At least one additional tumor has formed in the same or a different lobe of the lung. "
+            android:layout_marginLeft="17dp"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stage 4 non-small cell lung cancer"
+            android:layout_marginLeft="6dp"
+            android:textSize="30dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 4A: The lung cancer tumor is any size, may have reached the lymph nodes, and meets at least one of the following criteria:"
+            android:layout_marginLeft="13dp"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● At least one tumor has formed in the lung opposite to where the original tumor formed."
+            android:layout_marginLeft="15dp"
+            android:textSize="20dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has reached the sac around the heart or the tissues wrapping around the lungs. "
+            android:layout_marginLeft="15dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● The cancer has spread to fluid surrounding the heart or lungs."
+            android:layout_marginLeft="15dp"
+            android:textSize="15dp"
+            android:textColor="@color/purple_200"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="● Stage 4B: The cancer has reached various places in at least one organ far away from the lung."
+            android:layout_marginLeft="13dp"
+            />
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            app:srcCompat="@drawable/stages" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:layout_height="match_parent"
+    tools:context=".prediction">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/brainImg"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="100dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:src="@drawable/ga"
+            app:riv_mutate_background="true"/>
+
+
+
+        <Button
+            android:id="@+id/select"
+            style="@style/Button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:text="select"
+            android:textColor="@color/white"
+
+            android:textSize="20dp"
+            app:shapeAppearanceOverlay="@style/Button8"
+            app:layout_constraintEnd_toEndOf="@+id/brainImg"
+            app:layout_constraintStart_toStartOf="@+id/brainImg"
+            app:layout_constraintTop_toBottomOf="@+id/brainImg" />
+
+        <Button
+            android:id="@+id/predict"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="PREDICT"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            app:shapeAppearanceOverlay="@style/Button8"
+            app:layout_constraintEnd_toEndOf="@+id/select"
+
+            app:layout_constraintStart_toStartOf="@+id/select"
+            app:layout_constraintTop_toBottomOf="@+id/select" />
+
+        <TextView
+            android:id="@+id/output"
+            android:layout_width="255dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="120dp"
+            android:fontFamily="sans-serif-black"
+            android:text="  Result 🤒"
+
+            android:textAlignment="center"
+            android:textColor="#FBF6F6"
+            android:textSize="30dp"
+
+            app:layout_constraintEnd_toEndOf="@+id/predict"
+            app:layout_constraintHorizontal_bias="0.463"
+            app:layout_constraintStart_toStartOf="@+id/predict"
+            app:layout_constraintTop_toBottomOf="@+id/predict" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

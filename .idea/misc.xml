@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable-v24/custom_edittetext.xml" value="0.138" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/button_background.xml" value="0.143" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/buttons.xml" value="0.114" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/comment_edit.xml" value="0.138" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/edit.xml" value="0.1355" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/edittext.xml" value="0.138" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_add.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_add_post.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_grid_view_24.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_memer.xml" value="0.114" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_notifications_active.xml" value="0.114" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_password.xml" value="0.114" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_privacy_tip_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_support_24.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_baseline_user.xml" value="0.114" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_camera.xml" value="0.1115" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_options.xml" value="0.1295" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/ic_send.xml" value="0.1385" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/recieverchatdrawble.xml" value="0.1425" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/drawable/senderchatdrawable.xml" value="0.143" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/font/montserrat.xml" value="0.234375" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_aboutus.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_chat2.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_chatt.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_contactus.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_favourite_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_feed_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_following_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_main2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_my_application.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_nutration.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_others_profiles.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_otp_authentication.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_post.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_post_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_prediction.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_profile.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_scheduling.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_search_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_services.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_set_profile.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_show_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_sideeffects.xml" value="0.12678421494542402" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_specific_chat.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_timeline.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_update_profile.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/activity_user_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/chatviewlayout.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_call.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_chat.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_following.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_home.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/fragment_statusefragment.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/grid_item.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/item_comment.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/list_view_item_row.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/nav_header.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/notification_item.xml" value="0.203125" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/photos_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/post_item.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/recieverchatlayout.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/senderchatlayout.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/show_list.xml" value="0.203125" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/toolbar.xml" value="0.1984375" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/layout/user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/bottom_navigation.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/main_activity2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/menu.xml" value="0.1984375" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/nav_menu.xml" value="0.67" />
+        <entry key="..\:/Users/DELL/lungcancer/app/src/main/res/menu/options.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

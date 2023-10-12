@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918682182172",
+    "firebase_url": "https://lung-cancer-graduation-default-rtdb.firebaseio.com",
+    "project_id": "lung-cancer-graduation",
+    "storage_bucket": "lung-cancer-graduation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918682182172:android:5242fc9561c53daa87b5d9",
+        "android_client_info": {
+          "package_name": "com.example.lungcancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918682182172-bif0n1t43bf0tn3sq91763rcqac544cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO4-y1OODh9ZzQwgYaDqqHdIxmckR9kCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918682182172-bif0n1t43bf0tn3sq91763rcqac544cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
